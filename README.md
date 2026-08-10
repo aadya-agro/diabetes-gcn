@@ -10,4 +10,4 @@ Dataset: 515 subjects, 308 voice/clinical features, binary diabetes label.
 ## Files
 - `Untitled0.ipynb` — full code and outputs
 - `my_own_graph.png` — the subject similarity graph
-- `training_curve.png` — GCN training/validation accuracy over time
+- `training_curve.png` — GCN training/validation accuracy over time 
